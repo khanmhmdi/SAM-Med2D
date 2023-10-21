@@ -1,4 +1,6 @@
 # SAM-Med2D \[[Paper](https://arxiv.org/abs/2308.16184)]
+https://github.com/khanmhmdi/SAM-Med2D/assets/53315077/33359384-ed35-45e1-b3e4-53962ef9e328
+
 [![Open in OpenXLab](https://cdn-static.openxlab.org.cn/app-center/openxlab_app.svg)](https://openxlab.org.cn/apps/detail/litianbin/SAM-Med2D)
 </a> 
 <a src="https://img.shields.io/badge/cs.CV-2308.16184-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2308.16184"> <img src="https://img.shields.io/badge/cs.CV-2308.16184-b31b1b?logo=arxiv&logoColor=red">
@@ -8,6 +10,9 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 [![GitHub Stars](https://img.shields.io/github/stars/OpenGVLab/SAM-Med2D.svg?style=social&label=Star&maxAge=60)](https://github.com/OpenGVLab/SAM-Med2D)🔥🔥🔥
+
+
+
 <!-- ## Description -->
 
 ## 🌤️ Highlights
