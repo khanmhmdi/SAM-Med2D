@@ -21,6 +21,7 @@ https://github.com/khanmhmdi/SAM-Med2D/assets/53315077/33359384-ed35-45e1-b3e4-5
 - 🏆 Comprehensive evaluation of SAM-Med2D on large-scale datasets.
 
 ## 🔥 Updates
+- (2023.10.24) We now released [SAM-Med3D](https://github.com/uni-medical/SAM-Med3D), which focus on segnmentation of 3D medical imaging
 - (2023.09.14) Train code release
 - (2023.09.02) Test code release
 - (2023.08.31) Pre-trained model release
@@ -217,7 +218,7 @@ Prepare your own dataset and refer to the samples in `SAM-Med2D/data_demo` to re
 If you want to use mixed-precision training, please install [Apex](https://github.com/NVIDIA/apex). If you don't want to install Apex, you can comment out the line `from apex import amp` and set `use_amp` to False.
 
 ```bash
-cd ./SAM-Med2d
+cd ./SAM-Med2D
 python train.py
 ```
 - work_dir: Specifies the working directory for the training process. Default value is `workdir`.
@@ -235,7 +236,7 @@ python train.py
 Prepare your own dataset and refer to the samples in `SAM-Med2D/data_demo` to replace them according to your specific scenario. You need to generate the `label2image_test.json` file before running `test.py`.
 
 ```bash
-cd ./SAM-Med2d
+cd ./SAM-Med2D
 python test.py
 ```
 - work_dir: Specifies the working directory for the testing process. Default value is `workdir`.
